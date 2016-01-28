@@ -1,0 +1,7 @@
+# ignored files for svg-resize
+
+*.pyc
+MANIFEST
+build/
+dist/
+*.egg-info/
