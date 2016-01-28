@@ -3,7 +3,7 @@
 # Resize SVG and add frame for printing in a given format.
 # Written by Ilya Zverev, licensed WTFPL.
 
-import sys, os, argparse, re
+import sys, os, re
 from lxml import etree
 
 # is there a good way to get rid of this function?
